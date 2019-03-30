@@ -1,8 +1,7 @@
 # **Behavioral Cloning** 
 
 ---
-**Behavioral Cloning
-Project**
+**Behavioral Cloning Project**
 
 The goals / steps of this project are the following:
 * Use the simulator to collect data of good driving behavior
